@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Shoe-Color-Picker/static/css/main.31d6cfe0.css",
+    "main.js": "/Shoe-Color-Picker/static/js/main.2aa3c4e1.js",
+    "index.html": "/Shoe-Color-Picker/index.html",
+    "main.2aa3c4e1.js.map": "/Shoe-Color-Picker/static/js/main.2aa3c4e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2aa3c4e1.js"
+  ]
+}
