@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Shoe-Color-Picker/static/css/main.31d6cfe0.css",
-    "main.js": "/Shoe-Color-Picker/static/js/main.8b8e52cb.js",
+    "main.js": "/Shoe-Color-Picker/static/js/main.c8bfd8a4.js",
     "static/media/NikeNew.glb": "/Shoe-Color-Picker/static/media/NikeNew.b93e01202948591a9dad.glb",
+    "static/media/SneakersNew.glb": "/Shoe-Color-Picker/static/media/SneakersNew.36e99e47c4eaddcebe8a.glb",
     "index.html": "/Shoe-Color-Picker/index.html",
-    "main.8b8e52cb.js.map": "/Shoe-Color-Picker/static/js/main.8b8e52cb.js.map"
+    "main.c8bfd8a4.js.map": "/Shoe-Color-Picker/static/js/main.c8bfd8a4.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.8b8e52cb.js"
+    "static/js/main.c8bfd8a4.js"
   ]
 }
